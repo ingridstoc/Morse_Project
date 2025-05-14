@@ -36,23 +36,21 @@ The Morse Code Speech-to-Text Application is a Python-based project that allows 
 
 ## Prerequisites
 Ensure you have the following installed:
--Python 
+-Python (minim 3.6 version)
 -pip (Python package installer)
 
 ## Installation
 
 1. Clone the repository:
 ```
-git clone <repository_url>
+git clone https://github.com/ingridstoc/Morse_Project.git
 ```
-2. Navigate to the project directory:
+2. Create an environment in the terminal and activate it:
 ```
-cd Morse-Code-Speech-to-Text
+ .\venv\Scripts\activate
 ```
-3. Install dependencies:
-```
-pip install -r requirements.txt
-```
+3. Install dependencies and libraries mentioned:
+
 ## Usage
 1. Run the application:
 ```
